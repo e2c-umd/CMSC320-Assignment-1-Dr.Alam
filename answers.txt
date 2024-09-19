@@ -1,0 +1,7 @@
+Q1: Why might be consider using git?
+
+Answer: So that we can easily send and recieve code to one another
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It can help with the medical field and be useful in visualizing effectiveness of certain treatments
